@@ -1,6 +1,7 @@
 /**
  *   Continue Grow With Google Challenge Scholarship: Android Basics
  *      Project 2 - Basketball Court Counter
+ *          RC-1a - made findViewByID public & removed from method
  *
  *           2018-04-09
  *           PoodleBytes
